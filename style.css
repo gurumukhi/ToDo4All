@@ -1,0 +1,47 @@
+body, html{
+
+}
+
+.container{
+
+}
+
+.head{
+	font-size: 20px;
+	background-color: #98CC94;
+	color:white;
+	padding:20px 20px 20px 20px ;
+	margin-bottom: 20px;
+	box-shadow:1px 2px 2px black;
+}
+
+.containt{
+	margin-left:50px;
+	margin-right: 50px;
+	font-size: 16px;
+}
+
+.items{
+	padding-top: 15px;
+	padding-bottom: 20px;
+	vertical-align: top;
+	border-bottom: 2px solid #98CC94;
+}
+
+.items input[type=checkbox], .items span.author{
+	vertical-align: top;
+}
+
+#itemHeader{
+	font-weight: bolder;
+}
+
+.desc{
+	width:60%;
+	padding-left: 20px;
+	display: inline-block;
+}
+
+.author{
+	font-style: italic;
+}
